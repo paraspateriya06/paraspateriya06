@@ -30,9 +30,7 @@ I’m a **Full Stack Developer** who loves turning ideas into real-world applica
 
 - 📧 Email me: **Paraspaterya616@gmail.com**
 - 💼 LinkedIn: [Paras Mani Paterya](https://www.linkedin.com/in/paraspateriya06/)
-- 🧠 Dev.to Blog: [My Coding Journey](https://dev.to/your-blog) _(optional if you write)_
 
----
 
 > ⚡ "I don't just code for assignments — I build to **understand, improve, and impact**."
 

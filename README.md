@@ -28,8 +28,6 @@ Whether it’s a performant backend API or a pixel-perfect UI — I’m all abou
 ---
 
 ### 🧪 Developer Playground
-
-- 🧠 Codolio Profile → [codolio.com/profile/paraspaterya06](https://codolio.com/profile/paraspaterya06)
 - 📁 Check pinned repos for:
   - Real-world apps
   - DSA vaults (2-pointer, DP, graphs — the usual suspects)

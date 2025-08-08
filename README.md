@@ -1,4 +1,4 @@
-### 👋 Yo, I’m Paras Mani Paterya (aka @paraspateriya06)
+### 👋 Hola, I’m Paras Mani Paterya (aka @paraspateriya06)
 
 I’m a **Full Stack Developer** on a constant quest to build, break, and rebuild things that actually solve real-world problems.  
 Whether it’s a performant backend API or a pixel-perfect UI — I’m all about writing code that doesn’t just “work”, but makes sense.

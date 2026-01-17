@@ -5,13 +5,6 @@ Whether it’s a performant backend API or a pixel-perfect UI — I’m all abou
 
 ---
 
-### 🛠️ Toolbox & Traits
-- 🚀 Actively shipping MERN stack projects & debugging life one commit at a time
-- 📚 Grinding 400+ DSA problems and still counting (Striver Sheet, LeetCode, and logic battles at 2AM)
-- 🧠 Currently diving deep into **DevOps 101**, and **Advanced DSA patterns**
-
----
-
 ### 👾 My Developer Operating System
 - 🧑‍💻 Languages: Java, C++, JavaScript (no TypeScript drama… yet)
 - ⚛️ Stack: React.js • Node.js • Express.js • MongoDB • Tailwind CSS

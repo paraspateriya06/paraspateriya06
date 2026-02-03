@@ -33,6 +33,4 @@ I care about fundamentals, clean code, and systems that don’t fall apart under
 - LinkedIn: https://www.linkedin.com/in/paraspateriya06/
 
 ---
-
-> I don’t chase trends.  
 > I learn the rules, then use them well.
